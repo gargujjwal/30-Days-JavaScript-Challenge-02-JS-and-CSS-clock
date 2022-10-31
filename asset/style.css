@@ -58,15 +58,13 @@ body {
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
-@media only screen and (min-width: 600px)  {
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
     .clock {
         margin: 70px auto;
-        padding: 2rem;
-        width: 70rem;
-        height: 70rem;
-    }
-
-    .attribution {
-        font-size: 3rem;
+        padding: 3rem;
+        width: 40rem;
+        height: 40rem;
     }
 }
