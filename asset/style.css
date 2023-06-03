@@ -1,70 +1,68 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap");
 
 html {
-    background: #018DED url(https://unsplash.it/1500/1000?image=881&blur=5);
-    background-size: cover;
-    font-family: 'Ubuntu Condensed', sans-serif;;
-    text-align: center;
-    font-size: 10px;
+	background: #018ded url(https://unsplash.it/1500/1000?image=881&blur=5);
+	background-size: cover;
+	font-family: "Ubuntu Condensed", sans-serif;
+	text-align: center;
+	font-size: 10px;
 }
 
 body {
-    margin: 0;
-    font-size: 2rem;
-    display: flex;
-    flex: 1;
-    min-height: 100vh;
-    justify-content: center;
-    flex-direction: column;
+	margin: 0;
+	font-size: 2rem;
+	min-height: 100vh;
+	display: grid;
+	place-content: center;
 }
 
 .clock {
-    width: 30rem;
-    height: 30rem;
-    border: 20px solid white;
-    border-radius: 50%;
-    margin: 50px auto;
-    position: relative;
-    padding: 2rem;
-    box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.1),
-    inset 0 0 0 3px #EFEFEF,
-    inset 0 0 10px black,
-    0 0 10px rgba(0, 0, 0, 0.2);
+	width: 30rem;
+	height: 30rem;
+	border: 20px solid white;
+	border-radius: 50%;
+	margin: 50px auto;
+	position: relative;
+	padding: 2rem;
+	box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.1), inset 0 0 0 3px #efefef,
+		inset 0 0 10px black, 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 .clock-face {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    transform: translateY(-3px); /* account for the height of the clock hands */
+	position: relative;
+	width: 100%;
+	height: 100%;
+	transform: translateY(-3px); /* account for the height of the clock hands */
 }
 
 .hand {
-    width: 50%;
-    height: 6px;
-    background: black;
-    position: absolute;
-    top: 50%;
-    transition: all 0.05s;
-    transition-timing-function: cubic-bezier(.64, 0, .25, 1.59);
-    transform-origin: 100%;
+	width: 50%;
+	height: 6px;
+	background: black;
+	position: absolute;
+	top: 50%;
+	transition: all 0.05s;
+	transition-timing-function: cubic-bezier(0.64, 0, 0.25, 1.59);
+	transform-origin: 100%;
 }
 
 .attribution {
-    font-size: 1.5rem;
-    text-align: center;
+	font-size: 1.5rem;
+	text-align: center;
+	color: white;
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+	color: hsl(228, 45%, 64%);
 }
 
 @media only screen and (max-width: 768px) {
-    /* For mobile phones: */
-    .clock {
-        margin: 70px auto;
-        padding: 3rem;
-        width: 40rem;
-        height: 40rem;
-    }
+	/* For mobile phones: */
+	.clock {
+		margin: 70px auto;
+		padding: 3rem;
+		width: 20rem;
+		height: 20rem;
+		border-width: 10px;
+	}
 }
