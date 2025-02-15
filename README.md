@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock">
+  <a href="https://github.com/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock">
       <img src="asset\clock.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -22,11 +22,11 @@
   <p align="center">
     This is the 2nd challenge of 30 Days Vanilla JavaScript challenge. Using JavaScirpt and CSS, I made an analogue clock
     <br />
-    <a href="https://ujjwalgarg100204.github.io/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/">View Demo</a>
+    <a href="https://gargujjwal.github.io/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/">View Demo</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/issues">Report Bug</a>
+    <a href="https://github.com/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/issues">Request Feature</a>
+    <a href="https://github.com/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/issues">Request Feature</a>
   </p>
 </div>
 
@@ -62,7 +62,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://ujjwalgarg100204.github.io/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/)
+[![Product Name Screen Shot][product-screenshot]](https://gargujjwal.github.io/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,7 +78,7 @@
 
 * Clone the repo
    ```sh
-   git clone https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock.git
+   git clone https://github.com/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -119,10 +119,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Ujjwal Garg - [@linkedin_handle](https://linkedin.com/in/ujjwal-garg-3a5639243) - ujjwalgarg100204@gmail.com
+Ujjwal Garg - [@linkedin_handle](https://linkedin.com/in/ujjwal-garg-3a5639243) - gargujjwal@gmail.com
 
 Project
-Link: [https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock](https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock)
+Link: [https://github.com/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock](https://github.com/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,25 +142,25 @@ Link: [https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-an
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/graphs/contributors
+[contributors-url]: https://github.com/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock.svg?style=for-the-badge
 
-[forks-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/network/members
+[forks-url]: https://github.com/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock.svg?style=for-the-badge
 
-[stars-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/stargazers
+[stars-url]: https://github.com/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock.svg?style=for-the-badge
 
-[issues-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/issues
+[issues-url]: https://github.com/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/issues
 
-[license-shield]: https://img.shields.io/github/license/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock.svg?style=for-the-badge
 
-[license-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/blob/master/LICENSE.txt
+[license-url]: https://github.com/gargujjwal/30-Days-JavaScript-Challenge-02-JS-and-CSS-clock/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
